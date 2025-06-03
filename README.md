@@ -21,4 +21,4 @@
 ### 🔗 Connect With Me
 - 🌐 Portfolio: [Coming Soon]
 - 💼 LinkedIn: [linkedin.com/in/sourav-chauhan](#)
-- 📸 Instagram: [@trailsofmountains](https://instagram.com/trailsofmountains)
+- 📸 Instagram: [@trailsofmountains](https://instagram.com/trails_of_mountains)
