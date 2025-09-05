@@ -30,7 +30,7 @@
 - **Frontend**: Vue.js, Nuxt.js, Tailwind CSS, Vite, JavaScript (ES6+)  
 - **Backend**: PHP, Laravel, Laravel Breeze (Auth & RBAC), Blade, CodeIgniter, CakePHP  
 - **Database**: MySQL, MongoDB  
-- **DevOps/Tools**: Git, GitHub Actions, Docker, Jenkins, Pusher  
+- **DevOps/Tools**: Git, GitHub
 - **Other Tools & Libraries**: FilePond (uploads), DataTables (admin listings), WordPress, OpenCart  
 
 ---
