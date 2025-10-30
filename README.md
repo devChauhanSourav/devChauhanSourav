@@ -1,78 +1,76 @@
-<!-- HEADER BANNER HERE → I will generate for you -->
-<p align="center"><img src="BANNER_WILL_BE_ADDED_HERE" width="600"/></p>
+# 👋 Hi, I'm Sourav Chauhan  
 
-I'm a self-taught passionate FullStack developer from India 🇮🇳
+### 🌍 Full-Stack Web Developer | 8+ Years in IT | Vue.js, Nuxt & Laravel Specialist | Technical Lead | DevOps Explorer  
 
-### About me
-
-- 🌄 Full-Stack Developer & Team Lead  
-- 🚀 Currently building **AdventureBook** & **Neelkanth Retreat** hotel platform  
-- 💡 I love building **scalable**, **real-time**, **AI-powered** applications  
-- 🧑‍🎓 Exploring **CI/CD, Docker, Cloud Deployments**  
-- 💬 Ask me about **Vue, Nuxt, Laravel, Pusher, REST APIs**  
-- 📫 Reach me: **dev.chauhan.sourav@gmail.com**
-
-<br/>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,php,laravel,tailwind,html,css,vite,mysql,mongodb,docker,git,github,nginx&perline=9" />
-</p>
+- 🔭 Currently working on:  
+  - **AdventureBook** – a full-stack adventure booking platform (Nuxt + Vue + Laravel + AI integration)  
+  - **Neelkanth Retreat** – hotel management system with real-time **Pusher-powered chat**  
+- 🌱 Learning & exploring: **Docker, GitHub Actions, Jenkins, Advanced CI/CD pipelines**  
+- 🧑‍💻 Passionate about building **scalable, secure, and AI-powered web applications**  
+- 👥 Experienced in **leading teams, mentoring developers, and delivering enterprise solutions**  
+- ✈️ Love for **minimal UI design, traveling, and remote freelancing**  
+- 📬 Reach me at: [dev.chauhan.sourav@gmail.com](mailto:dev.chauhan.sourav@gmail.com)  
 
 ---
 
-### Sourav's GitHub Stats
+### 🏆 Top Skills  
 
-| <a href="https://github.com/devChauhanSourav/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=devChauhanSourav&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=default" alt="Sourav's github stats" /></a> | <a href="https://github.com/devChauhanSourav/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devChauhanSourav&layout=compact&hide_border=true&theme=default" /></a> |
-| ------------- | ------------- |
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devChauhanSourav&hide_border=true&theme=default" />
-</p>
-
----
-
-### Top Repositories
-
-<p align="left">
-  <a href="https://github.com/devChauhanSourav/AdventureBook">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devChauhanSourav&repo=AdventureBook&hide_border=true&theme=default" />
-  </a>
-  <a href="https://github.com/devChauhanSourav/Neelkanth-Retreat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devChauhanSourav&repo=Neelkanth-Retreat&hide_border=true&theme=default" />
-  </a>
-</p>
+- **Full-Stack Web Development**: Vue.js, Nuxt.js, Laravel, Tailwind, Blade  
+- **API Development & Integrations**: REST APIs, Payment Gateways, 3rd-Party APIs  
+- **Real-Time Systems**: Pusher, WebSockets  
+- **DevOps & Deployment**: Git, GitHub Actions, Docker, Jenkins (learning)  
+- **Role-Based Systems**: Laravel Breeze, Spatie Permissions  
+- **AI-Powered Features**: OpenAI / OpenRouter API integration  
+- **Leadership**: Team Lead, Code Reviews, Architecture Decisions  
 
 ---
 
-### Contributions
+### 🛠️ Tech Stack  
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devChauhanSourav&area=true&hide_border=true&theme=github-light" />
-</p>
-
----
-
-### Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
+- **Frontend**: Vue.js, Nuxt.js, Tailwind CSS, Vite, JavaScript (ES6+)  
+- **Backend**: PHP, Laravel, Laravel Breeze (Auth & RBAC), Blade, CodeIgniter, CakePHP  
+- **Database**: MySQL, MongoDB  
+- **DevOps/Tools**: Git, GitHub
+- **Other Tools & Libraries**: FilePond (uploads), DataTables (admin listings), WordPress, OpenCart  
 
 ---
 
-### Connect with me
+### 🚀 Featured Projects  
 
-<p>
-  <a href="https://www.linkedin.com/in/sourav-chauhan-401157a0">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="mailto:dev.chauhan.sourav@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+#### 🌄 AdventureBook – Full-Stack Adventure Booking Platform  
+- Built with **Laravel backend + Vue/Nuxt frontend**  
+- 🧑‍💼 Role-based authentication (Admin, Company, User)  
+- 🏔️ Companies can list adventures with media & pricing  
+- 👤 Users/Guests can explore, save itineraries, and book adventures  
+- 🤖 AI features: **adventure description generator** & **smart booking assistant**  
+- ⚙️ **DevOps-ready**: Dockerized setup, CI/CD in progress  
+
+👉 Tech: `Nuxt`, `Vue`, `Laravel`, `Tailwind`, `Breeze`, `FilePond`, `DataTables`, `AI APIs`, `Docker`  
 
 ---
 
-> “I don’t just write code — I design systems that last.”
+#### 🏨 Neelkanth Retreat – Hotel Management System  
+- Full-stack hotel booking & management system  
+- Role-based access (Admin, Manager, Staff) using **Spatie Permissions**  
+- REST APIs for rooms, amenities, guest inquiries  
+- Real-time **chat system** with **Pusher integration**  
+- Dynamic media handling for room galleries & amenities  
+- Delivered **admin panel (Blade)** + **Nuxt.js frontend**  
+
+👉 Tech: `Nuxt`, `Laravel`, `Blade`, `Spatie Permissions`, `Pusher`, `MySQL`  
+
+---
+
+### 📊 GitHub Stats  
+![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=devChauhanSourav&show_icons=true&theme=radical)  
+
+---
+
+### 🔗 Connect With Me  
+- 🌐 Portfolio: _Coming Soon_  
+- 💼 LinkedIn: [linkedin.com/in/sourav-chauhan-401157a0](https://www.linkedin.com/in/sourav-chauhan-401157a0)  
+- 📸 Instagram: [@trailsofmountains](https://instagram.com/trails_of_mountains)  
+
+---
+
+⚡ *With 8+ years in IT, I’ve delivered **scalable platforms, ERPs, real-time systems, and AI-powered solutions**. Currently focused on building **AdventureBook** and **Neelkanth Retreat**, while sharpening **DevOps expertise** for production-ready deployments.*  
