@@ -60,19 +60,32 @@
 👉 Tech: `Nuxt`, `Laravel`, `Blade`, `Spatie Permissions`, `Pusher`, `MySQL`  
 
 ---
-
 ### 📊 GitHub Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devChauhanSourav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+<div align="center">
+  
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=devChauhanSourav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devChauhanSourav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="180"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devChauhanSourav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devChauhanSourav&theme=tokyonight&hide_border=true)
+<div align="center">
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devChauhanSourav&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F85149&currStreakLabel=C9D1D9" alt="GitHub Streak" width="49%"/>
+  
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devChauhanSourav&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Contribution Graph" width="98%"/>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devChauhanSourav&theme=tokyo-night&hide_border=true)
+</div>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=devChauhanSourav&theme=tokyonight&no-frame=true&column=7)
-
+<!-- Profile Trophy -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devChauhanSourav&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
 
 ---
 
