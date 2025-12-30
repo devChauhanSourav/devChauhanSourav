@@ -60,27 +60,18 @@
 👉 Tech: `Nuxt`, `Laravel`, `Blade`, `Spatie Permissions`, `Pusher`, `MySQL`  
 
 ---
- 
 
 ### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devChauhanSourav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devChauhanSourav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="48%"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devChauhanSourav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devChauhanSourav&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F85149&currStreakLabel=C9D1D9" alt="GitHub Streak" width="98%"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devChauhanSourav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devChauhanSourav&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Contribution Graph" width="98%"/>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devChauhanSourav&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devChauhanSourav&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="98%"/>
-</p>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devChauhanSourav&theme=tokyo-night&hide_border=true)
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=devChauhanSourav&theme=tokyonight&no-frame=true&column=7)
 
 
 ---
