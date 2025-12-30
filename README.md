@@ -61,38 +61,25 @@
 
 ---
 
+---
+
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=devChauhanSourav&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devChauhanSourav&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800"
-    width="48%"
-  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=devChauhanSourav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&line_height=27" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devChauhanSourav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 </p>
-
-<div align="center"> 
-  <img src="streak-stats.demolab.com" alt="GitHub Streak" width="49%" />
- 
-  <img src="github-readme-activity-graph.vercel.app" alt="Contribution Graph" width="98%"/>
-
-</div>
-
----
-
-### 🏆 GitHub Achievements
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=devChauhanSourav&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devChauhanSourav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devChauhanSourav&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
-w
+
 
 
 ### 🔗 Connect With Me  
