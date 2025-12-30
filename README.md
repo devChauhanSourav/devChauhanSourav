@@ -74,13 +74,10 @@
   />
 </p>
 
-<div align="center">
-  
-  <!-- GitHub Streak Stats (Updated URL) -->
-  <img src="streak-stats.demolab.com" alt="GitHub Streak" width="49%""")/>
-  
-  <!-- Contribution Graph (Original URL seems stable) -->
-  <img src="github-readme-activity-graph.vercel.app" alt="Contribution Graph" width="98%""")/>
+<div align="center"> 
+  <img src="streak-stats.demolab.com" alt="GitHub Streak" width="49%" />
+ 
+  <img src="github-readme-activity-graph.vercel.app" alt="Contribution Graph" width="98%"/>
 
 </div>
 
