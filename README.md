@@ -65,11 +65,11 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=devChauhanSourav&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=devChauhanSourav&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800"
     width="48%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devChauhanSourav&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devChauhanSourav&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800"
     width="48%"
   />
 </p>
