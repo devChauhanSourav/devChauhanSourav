@@ -74,12 +74,15 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=devChauhanSourav&theme=tokyonight&cache_seconds=1800"
-    width="96%"
-  />
-</p>
+<div align="center">
+  
+  <!-- GitHub Streak Stats (Updated URL) -->
+  <img src="streak-stats.demolab.com" alt="GitHub Streak" width="49%""")/>>
+  
+  <!-- Contribution Graph (Original URL seems stable) -->
+  <img src="github-readme-activity-graph.vercel.app" alt="Contribution Graph" width="98%""")/>>
+
+</div>
 
 ---
 
@@ -92,6 +95,7 @@
 </p>
 
 ---
+w
 
 
 ### 🔗 Connect With Me  
