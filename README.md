@@ -82,16 +82,6 @@
 
 </div>
 
-<!-- Profile Trophy -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devChauhanSourav&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
-<!-- Profile Trophy -->
-<div align="center">
-  <img src="github-profile-trophy.vercel.app" alt="GitHub Trophies"/>
-</div>
-
 ---
 
 ### 🔗 Connect With Me  
