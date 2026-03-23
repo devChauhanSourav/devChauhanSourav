@@ -81,6 +81,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=devChauhanSourav&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="98%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devChauhanSourav&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&custom_title=Sourav's%20Dev%20Metrics" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devChauhanSourav&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" width="49%" />
+</p>
+
 ---
 
 
