@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sourav Chauhan  
 
-### 🌍 Full-Stack Web Developer | 8+ Years in IT | Vue.js, Nuxt & Laravel Specialist | Technical Lead | DevOps Explorer  
+### 🌍 Full-Stack Web Developer | 8+ Years in IT | Vue.js, Nuxt & Laravel | Technical Lead
 
 - 🔭 Currently working on:  
   - **AdventureBook** – a full-stack adventure booking platform (Nuxt + Vue + Laravel + AI integration)  
