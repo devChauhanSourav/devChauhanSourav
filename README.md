@@ -18,7 +18,7 @@
 - **Full-Stack Web Development**: Vue.js, Nuxt.js, Laravel, Tailwind, Blade  
 - **API Development & Integrations**: REST APIs, Payment Gateways, 3rd-Party APIs  
 - **Real-Time Systems**: Pusher, WebSockets  
-- **DevOps & Deployment**: Git, GitHub Actions, Docker, Jenkins (learning)  
+- **DevOps & Deployment**: Git, GitHub Actions
 - **Role-Based Systems**: Laravel Breeze, Spatie Permissions  
 - **AI-Powered Features**: OpenAI / OpenRouter API integration  
 - **Leadership**: Team Lead, Code Reviews, Architecture Decisions  
