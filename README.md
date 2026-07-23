@@ -87,8 +87,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=devChauhanSourav&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9"
-    alt="Sourav Chauhan's Recent GitHub Contribution Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=devChauhanSourav&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&days=90&area=true&custom_title=Sourav%20Chauhan%27s%20Contribution%20Graph"
+    alt="Sourav Chauhan's GitHub Contribution Graph"
     width="98%"
   />
 </p>
