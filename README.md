@@ -62,28 +62,35 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats & Activity 
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=devChauhanSourav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devChauhanSourav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="49%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=devChauhanSourav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&rank_icon=github"
+    alt="Sourav Chauhan's GitHub Stats"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devChauhanSourav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"
+    alt="Sourav Chauhan's Most Used Public Repository Languages"
+    width="49%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devChauhanSourav&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F85149&currStreakLabel=C9D1D9" alt="GitHub Streak" width="98%" />
+  <img
+    src="https://streak-stats.demolab.com?user=devChauhanSourav&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F85149&currStreakLabel=C9D1D9"
+    alt="Sourav Chauhan's GitHub Contribution Streak"
+    width="98%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devChauhanSourav&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Contribution Graph" width="98%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devChauhanSourav&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="98%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devChauhanSourav&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&custom_title=Sourav's%20Dev%20Metrics" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devChauhanSourav&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" width="49%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=devChauhanSourav&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9"
+    alt="Sourav Chauhan's Recent GitHub Contribution Activity"
+    width="98%"
+  />
 </p>
 
 ---
